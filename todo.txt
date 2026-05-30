@@ -1,2 +1,0 @@
-* Afficher un champ mi et max pour le random number
-* Ajouter de meilleurs styles
